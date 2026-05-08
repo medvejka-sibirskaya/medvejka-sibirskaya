@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Hi there! 👋 I'm Diana — Prompt Engineer & AI Solutions Developer, VK and TG Bots
 
 Great to see you here! 🐻  
